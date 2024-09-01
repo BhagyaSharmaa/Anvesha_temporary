@@ -1,0 +1,2 @@
+Backend is a bit stale right now but it will catch on when MongoDb is implemented, however using Gsap, the Front end looks a lot cooler, this text file will be updated time to time when we change the file structure.
+
