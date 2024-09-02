@@ -8,7 +8,7 @@ const cors = require('cors'); // Cors module ko import kar rahe hain taaki Cross
 const jwt = require('jsonwebtoken'); // JSON Web Token module ko import kar rahe hain authentication ke liye tokens create aur verify karne ke liye
 
 const app = express(); // Express application ka ek instance bana rahe hain
-const port = 3000; // Server ke liye port number set kar rahe hain
+const port = 4040; // Server ke liye port number set kar rahe hain
 const JWT_SECRET = 'e37149727d75453727e2bec2dbd4357305fe14f492fa8cd1ff2dfd8c4f2f8f302fb09ebf87f9f0b26f4c70e3c49efdc47a3de040fd1639f7d3a198362451ed84'; 
 // Ek secret key define kar rahe hain jo JWT tokens sign karne ke liye use hoti hai
 
